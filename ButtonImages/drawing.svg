@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4474">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1;"
+         offset="0"
+         id="stop4476" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:0;"
+         offset="1"
+         id="stop4478" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4466">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1;"
+         offset="0"
+         id="stop4468" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:0;"
+         offset="1"
+         id="stop4470" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4458">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1;"
+         offset="0"
+         id="stop4460" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:0;"
+         offset="1"
+         id="stop4462" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4450">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1;"
+         offset="0"
+         id="stop4452" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:0;"
+         offset="1"
+         id="stop4454" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4450"
+       id="linearGradient4456"
+       x1="370.47086"
+       y1="86.651337"
+       x2="274.0423"
+       y2="25.937052"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4458"
+       id="linearGradient4464"
+       x1="392.74921"
+       y1="145.6322"
+       x2="172.33781"
+       y2="45.528702"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4466"
+       id="linearGradient4472"
+       x1="392.76285"
+       y1="145.18115"
+       x2="196.93344"
+       y2="47.266457"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4474"
+       id="linearGradient4480"
+       x1="394.72638"
+       y1="140.63031"
+       x2="225.32976"
+       y2="71.555946"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="657.34657"
+     inkscape:cy="437.67314"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="-690.52069"
+       x="575.98969"
+       height="24.970039"
+       width="7.6212044"
+       id="rect4230"
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.20543998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.20543998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4232"
+       width="6.9069185"
+       height="37.470039"
+       x="582.73956"
+       y="-696.77069"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="-701.23499"
+       x="588.73956"
+       height="46.398613"
+       width="8.3354902"
+       id="rect4234"
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.20543998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.20543998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4236"
+       width="8.3354893"
+       height="56.755753"
+       x="596.16815"
+       y="-706.41357"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="50"
+       height="50"
+       x="94.285713"
+       y="75.219322"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\Square_red.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3755"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\Circle_red.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-4"
+       width="50"
+       height="50"
+       x="310.44965"
+       y="528.83789"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(9.9097304,354.73514)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3755-5"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="translate(59.832222,258.126)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#2a7fff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3755-5-1"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3004"
+       sodipodi:cx="480.71429"
+       sodipodi:cy="385.93362"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 485.71429,385.93362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.71428571,0,0,0.71428571,35.765332,101.65507)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3004-7"
+       sodipodi:cx="480.71429"
+       sodipodi:cy="385.93362"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 485.71429,385.93362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.71428571,0,0,0.71428571,53.622472,101.29791)" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.93090796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 377.2378,387.5486 c 1.50726,11.99446 19.2605,13.22117 21.64691,0"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.04900002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3819-4"
+       width="74.776299"
+       height="5.0446401"
+       x="-115.46226"
+       y="500.03693"
+       transform="matrix(0.69054456,-0.72328985,0.71756984,0.69648656,0,0)" />
+    <path
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.04900002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 694.7989,427.45082 -26.21875,27.34375 -14.25,-13.65625 0,6.0625 13.875,13.3125 -13.875,14.46875 0,2.46875 3.6875,0 13.34375,-13.90625 14.5,13.90625 6.34375,0 -14.1875,-13.59375 26.3125,-27.40625 0,-9 -9.53125,0 z"
+       id="rect3930"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 383.23982,512.16957 -4.90625,6.5 -10.625,14.09375 0,5.0625 8.9375,0 0,24.34375 32.125,0 0,-24.28125 8.9375,0.0312 0,-5.09375 -10.5625,-14.09375 -4.90625,-6.5625 -19,0 z"
+       id="rect2985-4-8"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3004-4"
+       sodipodi:cx="480.71429"
+       sodipodi:cy="385.93362"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 485.71429,385.93362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.71428571,0,0,0.71428571,40.400882,267.75701)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3004-7-5"
+       sodipodi:cx="480.71429"
+       sodipodi:cy="385.93362"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 485.71429,385.93362 a 5,5 0 1 1 -10,0 5,5 0 1 1 10,0 z"
+       transform="matrix(0.71428571,0,0,0.71428571,58.258022,267.39985)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\square.png"
+       y="552.43488"
+       x="387.20926"
+       height="9.9050179"
+       width="10.975048"
+       id="rect4045"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.68888074;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;stroke:#2a7fff;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2985-4-1"
+       width="50"
+       height="50"
+       x="653.82257"
+       y="503.09302"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 683.83266,363.69069 c -25.30966,23.85204 -20.35561,47.76044 -1.29801,48.43306 18.41743,0.65004 22.62762,-17.9183 14.93507,-28.65229 -5.86762,-8.18752 -10.60353,-12.59195 -13.63706,-19.78077 z"
+       id="path4084"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4086"
+       d="m 687.86392,378.10302 c -5.10785,6.34611 -0.43821,17.45259 4.02418,16.43984 8.27471,-1.87796 -1.40353,-12.01385 -4.02418,-16.43984 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#2a7fff;stroke:none;stroke-width:0.20543997999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect2985-4-1-7"
+       width="7.8630767"
+       height="13.418916"
+       x="662.13782"
+       y="512.54474"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f3.png"
+       y="512.54474"
+       x="676.13782"
+       height="13.418916"
+       width="7.8630767"
+       id="rect4106"
+       style="color:#000000;fill:#2a7fff;stroke:none;stroke-width:0.20543997999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1" />
+    <rect
+       style="color:#000000;fill:#2a7fff;stroke:none;stroke-width:0.26032332000000002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect4108"
+       width="7.8081932"
+       height="21.69779"
+       x="532.90149"
+       y="-684.09973"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4110"
+       width="7.9153438"
+       height="8.167882"
+       x="683.35236"
+       y="529.09045"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.20543998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985-4-1-7-5"
+       width="9.4322996"
+       height="11.398611"
+       x="601.96173"
+       y="-683.91357"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4110-2"
+       width="7.4102674"
+       height="7.1746593"
+       x="658.08057"
+       y="604.34967"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="604.34967"
+       x="690.71198"
+       height="7.1746593"
+       width="7.4102674"
+       id="rect4168"
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="618.32684"
+       x="658.08057"
+       height="7.1746593"
+       width="7.4102674"
+       id="rect4170"
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4172"
+       width="7.4102674"
+       height="7.1746593"
+       x="690.71198"
+       y="618.32684"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4174"
+       width="7.4102674"
+       height="7.1746593"
+       x="653.72339"
+       y="611.30762"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="611.30762"
+       x="695.24774"
+       height="7.1746593"
+       width="7.4102674"
+       id="rect4176"
+       style="color:#000000;fill:#2a7fff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       y="590.73914"
+       x="664.86627"
+       height="7.1746593"
+       width="7.4102674"
+       id="rect4170-7"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15317287;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4196"
+       width="7.4102674"
+       height="7.1746593"
+       x="683.22345"
+       y="590.73914"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#2a7fff;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect2985-4-6"
+       width="50"
+       height="50"
+       x="644.22607"
+       y="640.97882"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\f5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\i1.png"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="124.50504"
+       sodipodi:cx="327.85715"
+       id="path4274"
+       style="color:#000000;fill:url(#linearGradient4480);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(0.43431457,0,0,0.43431457,386.42172,443.42725)" />
+    <path
+       transform="translate(200.95771,534.99656)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:url(#linearGradient4456);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4276"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\i4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\i2.png"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="124.50504"
+       sodipodi:cx="327.85715"
+       id="path4278"
+       style="color:#000000;fill:url(#linearGradient4472);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(0.65654814,0,0,0.65654814,313.56086,457.75805)" />
+    <path
+       transform="matrix(0.77776645,0,0,0.77776645,273.81857,502.66577)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:url(#linearGradient4464);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4280"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\i3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.43431457,0,0,0.43431457,386.42172,407.42725)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4282"
+       sodipodi:cx="327.85715"
+       sodipodi:cy="124.50504"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 352.85715,124.50504 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       inkscape:export-filename="C:\Users\MariaLuisa\Desktop\Gadgets, Sensors and Activity Recognition\Project 3\Buttons\i0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

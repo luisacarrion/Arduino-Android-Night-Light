@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\Users\MariaLuisa\Desktop\git\Arduino_Android_Night_Light\AndoidCode\.metadata\.plugins\org.eclipse.jdt.core
+3515282563.index
+3768476421.index
+2298917721.index
+1614110776.index
+78701448.index
+2537183348.index
+4155350778.index
