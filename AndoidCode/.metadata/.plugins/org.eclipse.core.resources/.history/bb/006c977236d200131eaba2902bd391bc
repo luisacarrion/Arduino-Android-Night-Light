@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NightLight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="shape">Shape</string>
+    <string name="intensity">Intensity</string>
+    <string name="desc_water_drop">Water Drop</string>
+    <string name="desc_intensity4">Intensity 4</string>
+</resources>

@@ -8,13 +8,7 @@
 
 package marilu.nightlight;
 
-import java.io.IOException;
-import java.io.OutputStream;
-import java.util.Set;
-import java.util.UUID;
-
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -22,7 +16,6 @@ import android.bluetooth.BluetoothSocket;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.ParcelUuid;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -30,8 +23,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import android.widget.Toast;
+
+import java.io.IOException;
+import java.io.OutputStream;
+import java.util.Set;
+import java.util.UUID;
+
+
 
 public class MainActivity extends ActionBarActivity {
 
@@ -52,8 +51,6 @@ public class MainActivity extends ActionBarActivity {
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
-        
-        
         
     }
 
@@ -216,43 +213,43 @@ public class MainActivity extends ActionBarActivity {
     		// We send a messaged based on the id of the view (button) that triggered the action
 	    	switch (view.getId()) {
 	 	    	
-		        case R.id.imageButton2:
+		        case R.id.btn_water_drop:
 		        	connectedThread.write("1".getBytes());
 		        	break;
 		        	
-		        case R.id.imageButton3:
+		        case R.id.btn_sword:
 		        	connectedThread.write("2".getBytes());
 		            break;
 		            
-		        case R.id.imageButton5:
+		        case R.id.btn_smiley:
 		        	connectedThread.write("3".getBytes());
 		            break;
 		            
-		        case R.id.imageButton7:
+		        case R.id.btn_invader:
 		        	connectedThread.write("4".getBytes());
 		            break;
 		            
-		        case R.id.imageButton9:
+		        case R.id.btn_square:
 		        	connectedThread.write("5".getBytes());
 		            break;   
 		            
-		        case R.id.imageButton10:
+		        case R.id.btn_intensity0:
 		        	connectedThread.write("6".getBytes());
 		            break;
 		            
-		        case R.id.imageButton8:
+		        case R.id.btn_intensity1:
 		        	connectedThread.write("7".getBytes());
 		            break;
 		            
-		        case R.id.imageButton6:
+		        case R.id.btn_intensity2:
 		        	connectedThread.write("8".getBytes());
 		            break;
 		            
-		        case R.id.imageButton4:
+		        case R.id.btn_intensity3:
 		        	connectedThread.write("9".getBytes());
 		            break;
 		            
-		        case R.id.imageButton1:
+		        case R.id.btn_intensity4:
 		        	connectedThread.write("0".getBytes());
 		            break;
 
